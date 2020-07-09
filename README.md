@@ -12,6 +12,6 @@ Interested in NLP (Conversational AI, Chatbot), ML/DL model serving pipeline, Mo
 ### 📫 Find me at
 
 -   Mail: [harrydrippin@gmail.com](mailto:harrydrippin@gmail.com)
--   LinkedIn:[linkedin.com/in/harrydrippin](https://linkedin.com/in/harrydrippin)
+-   LinkedIn: [linkedin.com/in/harrydrippin](https://linkedin.com/in/harrydrippin)
 -   Blog: [harrydrippin.github.io](https://harrydrippin.github.io)
 -   Resume: [Google Drive](https://drive.google.com/file/d/1DqLM1fdSOQRFE7NhD2eyg20eMliXwA6b/view)
